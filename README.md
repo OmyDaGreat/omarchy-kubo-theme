@@ -1,14 +1,14 @@
-# Omarchy Malefic Theme
+# Omarchy Kubo Theme
 
-This is the Malefic theme for [Omarchy.org](https://omarchy.org), providing a visually appealing configuration set for your Linux desktop environment. The theme features a dark navy and blue color scheme inspired by the "Earbuds" artwork, with cyan, purple, and orange accents.
+This is the Kubo theme for [Omarchy.org](https://omarchy.org), providing a visually appealing configuration set for your Linux desktop environment. The theme features a dark navy and blue color scheme inspired by a panel from the manga, with cyan, purple, and orange accents.
 
 <p align="center">
-  <img src="theme.png" alt="Malefic Theme Preview">
+  <img src="theme.png" alt="Kubo Theme Preview">
 </p>
 
 ## Color Palette
 
-The theme uses colors derived from the Earbuds artwork:
+The theme uses colors derived from the artwork:
 - **Background**: #0d1b2a (Dark navy blue)
 - **Foreground**: #e0e1dd (Light gray)
 - **Accent Colors**: 
@@ -20,7 +20,7 @@ The theme uses colors derived from the Earbuds artwork:
 
 ## Background Image
 
-The theme includes the "Earbuds" background image from the Malefic gallery, located in `backgrounds/Earbuds.jpg`.
+The theme includes a single background image, located in `backgrounds/Earbuds.jpg`.
 
 ## Supported Applications
 
@@ -36,5 +36,5 @@ This theme provides configurations for:
 To install this theme, simply use the `omarchy-theme-install` command:
 
 ```bash
-omarchy-theme-install https://github.com/OmyDaGreat/omarchy-malefic-theme
+omarchy-theme-install https://github.com/OmyDaGreat/omarchy-kubo-theme
 ```
